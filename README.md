@@ -38,22 +38,28 @@
 
 #### Cost Limit: 50
 ![4-50](https://i.ibb.co/z4mBZdc/4-50.png)
+![graph](https://i.ibb.co/S7bzrzw/1.png)
 
 #### Cost Limit: 60
 ![4-60](https://i.ibb.co/bFWbwsK/4-60.png)
+![graph](https://i.ibb.co/z26Yp1B/2.png)
 
 ### 5-city
 
 #### Cost Limit: 60
 ![5-60](https://i.ibb.co/YcRdKTk/5-60.png)
+![graph](https://i.ibb.co/Tv6xbkD/3.png)
 
 #### Cost Limit: 70
 ![5-70](https://i.ibb.co/JBH8hvS/5-70.png)
+![graph](https://i.ibb.co/NNMSSrG/4.png)
 
 ### 6-city
 
 #### Cost Limit: 65
 ![6-65](https://i.ibb.co/s21PLk5/6-65.png)
+![graph](https://i.ibb.co/W2DyZ6T/5.png)
 
 #### Cost Limit: 85
 ![6-85](https://i.ibb.co/f8NPvvW/6-85.png)
+![graph](https://i.ibb.co/sPkZNRz/6.png)
