@@ -46,7 +46,7 @@
 
 #### Cost Limit: 70
 
-#### 6-city
+### 6-city
 
 #### Cost Limit: 65
 
