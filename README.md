@@ -30,6 +30,6 @@
 
 10. For the interesting feature, we implement a simple GUI representation of the selected newrork graph with the highest reliability.
 
-### Results
+## Results
 
-#### Exhastive Enumeration
+### Exhastive Enumeration
