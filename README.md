@@ -1,6 +1,7 @@
 # Reliable-Network-Design
 
 **Project Description**
+
 The project requires developing a program for designing communication networks between cities. Given the number of cities and characteristics of communication links (cost and reliability), the objective is to construct a network that maximizes reliability within a specified cost constraint.
 
 The program should have two versions: one using **exhaustive enumeration** and the other using an **efficient algorithm**. The exhaustive enumeration method explores all possible network designs, while the efficient algorithm aims to find the optimal solution more quickly.
