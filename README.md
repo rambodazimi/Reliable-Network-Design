@@ -29,3 +29,7 @@
 9. Finally, we print important results for the network design.
 
 10. For the interesting feature, we implement a simple GUI representation of the selected newrork graph with the highest reliability.
+
+### Results
+
+#### Exhastive Enumeration
