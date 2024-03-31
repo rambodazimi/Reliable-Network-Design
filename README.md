@@ -37,6 +37,7 @@
 ### 4-city
 
 #### Cost Limit: 50
+![4-50](https://i.ibb.co/z4mBZdc/4-50.png)
 
 #### Cost Limit: 60
 
