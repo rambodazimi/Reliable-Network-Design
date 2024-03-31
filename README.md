@@ -30,6 +30,24 @@
 
 10. For the interesting feature, we implement a simple GUI representation of the selected newrork graph with the highest reliability.
 
-## Results
+# Results
 
-### Exhastive Enumeration
+## Exhastive Enumeration
+
+### 4-city
+
+#### Cost Limit: 50
+
+#### Cost Limit: 60
+
+### 5-city
+
+#### Cost Limit: 60
+
+#### Cost Limit: 70
+
+#### 6-city
+
+#### Cost Limit: 65
+
+#### Cost Limit: 85
