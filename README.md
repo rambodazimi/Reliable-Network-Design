@@ -1,5 +1,12 @@
 # Reliable-Network-Design
 
+**Project Description**
+The project requires developing a program for designing communication networks between cities. Given the number of cities and characteristics of communication links (cost and reliability), the objective is to construct a network that maximizes reliability within a specified cost constraint.
+
+The program should have two versions: one using **exhaustive enumeration** and the other using an **efficient algorithm**. The exhaustive enumeration method explores all possible network designs, while the efficient algorithm aims to find the optimal solution more quickly.
+
+The program should accept input files specifying the number of cities, costs of inter-city connections, and reliabilities of inter-city connections. Input files for 4, 5, and 6 cities are provided, and the program should run on all three inputs.
+
 **Implementation**
 
 1.   Read the input text file, extract information, and store to their corresponding variables (*N, reliability_matrix, cost_matrix*). To do so, we have implemented a function called *read_numbers_from_file()* which takes a filename as input, reads the file line by line, ignores lines starting with # (comments), extracts N from the first line, reads the remaining numbers into a list, and finally stores the values in their corresponding variables.
