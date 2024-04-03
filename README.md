@@ -40,7 +40,7 @@ The program should accept input files specifying the number of cities, costs of 
 
 # Results
 
-## Exhastive Enumeration
+## Exhaustive Enumeration
 
 ### 4-city
 
