@@ -1,4 +1,4 @@
-[4-50 log.txt](https://github.com/rambodazimi/Reliable-Network-Design/files/14899106/4-50.log.txt)[4-50 log.txt](https://github.com/rambodazimi/Reliable-Network-Design/files/14899104/4-50.log.txt)# Reliable-Network-Design
+# Reliable-Network-Design
 
 **Project Description**
 
@@ -83,8 +83,8 @@ to be completed
 <img width="355" alt="4-50 graph" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/95cf1499-4b40-400d-94e4-654fda2c5352">
 
 #### Cost Limit: 60
-<img width="358" alt="4-60 graph" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/18d35816-b421-4c5a-8305-7a22ac45f1b0">
 <img width="545" alt="4-60 log" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/0cc730a4-97df-42fe-85d8-54a5d927e69b">
+<img width="358" alt="4-60 graph" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/18d35816-b421-4c5a-8305-7a22ac45f1b0">
 
 ### 5-city
 
