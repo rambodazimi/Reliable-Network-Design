@@ -8,6 +8,8 @@ The program should have two versions: one using **exhaustive enumeration** and t
 
 The program should accept input files specifying the number of cities, costs of inter-city connections, and reliabilities of inter-city connections. Input files for 4, 5, and 6 cities are provided, and the program should run on all three inputs.
 
+## Exhaustive Enumeration
+
 **Implementation**
 
 1.   Read the input text file, extract information, and store to their corresponding variables (*N, reliability_matrix, cost_matrix*). To do so, we have implemented a function called *read_numbers_from_file()* which takes a filename as input, reads the file line by line, ignores lines starting with # (comments), extracts N from the first line, reads the remaining numbers into a list, and finally stores the values in their corresponding variables.
@@ -37,6 +39,9 @@ The program should accept input files specifying the number of cities, costs of 
 9. Finally, we print important results for the network design.
 
 10. For the interesting feature, we implement a simple GUI representation of the selected newrork graph with the highest reliability.
+
+## Efficient Algorithm
+to be completed
 
 # Results
 
