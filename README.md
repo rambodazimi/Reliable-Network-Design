@@ -40,8 +40,6 @@ The program should accept input files specifying the number of cities, costs of 
 
 # Results
 
-## Exhaustive Enumeration
-
 ### 4-city
 
 #### Cost Limit: 50
@@ -71,3 +69,6 @@ The program should accept input files specifying the number of cities, costs of 
 #### Cost Limit: 85
 ![6-85](https://i.ibb.co/f8NPvvW/6-85.png)
 ![graph](https://i.ibb.co/sPkZNRz/6.png)
+
+# Time Comparison
+![timer](https://i.ibb.co/fG9W571/Screenshot-2024-04-07-at-1-34-16-AM.png)
