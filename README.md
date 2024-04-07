@@ -1,4 +1,4 @@
-# Reliable-Network-Design
+[4-50 log.txt](https://github.com/rambodazimi/Reliable-Network-Design/files/14899106/4-50.log.txt)[4-50 log.txt](https://github.com/rambodazimi/Reliable-Network-Design/files/14899104/4-50.log.txt)# Reliable-Network-Design
 
 **Project Description**
 
@@ -74,6 +74,37 @@ to be completed
 #### Cost Limit: 85
 ![6-85](https://i.ibb.co/f8NPvvW/6-85.png)
 ![graph](https://i.ibb.co/sPkZNRz/6.png)
+
+## Efficient Algorithm
+
+### 4-city
+#### Cost Limit: 50
+<img width="545" alt="4-50 log" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/e182e4a3-fd48-4c9a-92d0-a73d30a6e0eb">
+<img width="355" alt="4-50 graph" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/95cf1499-4b40-400d-94e4-654fda2c5352">
+
+#### Cost Limit: 60
+<img width="358" alt="4-60 graph" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/18d35816-b421-4c5a-8305-7a22ac45f1b0">
+<img width="545" alt="4-60 log" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/0cc730a4-97df-42fe-85d8-54a5d927e69b">
+
+### 5-city
+
+#### Cost Limit: 60
+<img width="549" alt="5-60 log" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/4685dc92-fbb6-46cc-9672-3bc29ae4fcc7">
+<img width="365" alt="5-60 graph" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/4db7f091-0a8a-426b-962f-8f278db06eb8">
+
+#### Cost Limit: 70
+<img width="559" alt="5-70 log" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/b22cbc0e-b19e-4556-97ad-b46e1fefe85b">
+<img width="377" alt="5-70 graph" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/29e1369e-74c9-4484-a3bc-24d3874d0608">
+
+### 6-city
+
+#### Cost Limit: 65
+<img width="547" alt="6-65 log" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/6908cf5f-fa2b-43c5-a805-2820570133de">
+<img width="375" alt="6-65 graph" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/560041db-4174-4497-8062-4cd05d80cafd">
+
+#### Cost Limit: 85
+<img width="548" alt="6-85 log" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/267c1f40-2d07-4775-a2ad-80dc17a4e0e1">
+<img width="368" alt="6-85 graph" src="https://github.com/rambodazimi/Reliable-Network-Design/assets/60024749/ef46f313-72b9-4f6c-9083-b41c5b742fbf">
 
 # Time Comparison
 ![timer](https://i.ibb.co/fG9W571/Screenshot-2024-04-07-at-1-34-16-AM.png)
