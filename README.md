@@ -41,7 +41,24 @@ The program should accept input files specifying the number of cities, costs of 
 10. For the interesting feature, we implement a simple GUI representation of the selected newrork graph with the highest reliability.
 
 ## Efficient Algorithm
-to be completed
+
+**Implementation**
+
+1.   Read the input text file, extract information, and store to their corresponding variables (*N, reliability_matrix, cost_matrix*). To do so, we have implemented a function called *read_numbers_from_file()* which takes a filename as input, reads the file line by line, ignores lines starting with # (comments), extracts N from the first line, reads the remaining numbers into a list, and finally stores the values in their corresponding variables.
+
+2. Create a list called *edge_info_list* storing every possible edges in the graph with their corresponding cost and reliability information. We call the function *create_edge_info_list* taking into arguments the two lists, one representing the cost matrix and the other one, the reliability matrix. The function returns a list where each element represent a possible edge in the network. The first element on the tuple is the nodes of the edge in form of tuple, the second is its cost, and the third is its reliability.
+
+3. Sort the *edge_info_list* by using the built-in python function *sorted*, first in ascending order of cost, and then by ascending order of failure rate (or descending order of reliability). The resulting list is called *sorted_list*.
+
+4. Perform lowest cost Kruskal's algorithm by calling the *kruskal_alg* function. It keeps track of the edges added to the graph by the algorithm by storing them into the *kruskal_edges* list, and the edges discarded by the algorithm so that they are used later for the network enhancement into the *skipped_indices* list. It also keeps track of the cost of the network as edges are added, and returns an error if the cost of the network exceeds the cost limit.
+
+5. Enhance the network returned by Kruskal's algorithm by computing the cost and reliability of all possible networks containing the edges in *kruskal_edges*. We first create every possible combinations with the edges that we have not added to the network yet. Then, we iterate through the list of combinations and add the edges from the combinations to *kruskal_edges*. This will create a new enhanced network only for this iteration. For each iteration, we first check if the cost of the newly created network does not exceed the cost limit. If so, we proceed to the next step.
+
+* We keep track of the enhanced network with the highest total reliability. The *find_enhanced_reliability()* function is used to find the reliability of an enhanced network. It first converts the list of edges passed into its argument into a binary number following the coding system described in the exhaustive enumeration section. It then calls the *calculate_reliability()* function and passes the binary number as this function's argument. If the reliability of the new enhanced network is higher than that of the previous network with the highest reliability, we replace the previous network by this new network.
+
+6. If no enhanced network meet the conditions, the algorithm returns the original network created by Kruskal's algorithm.
+
+7. For the interesting feature, we implement a simple GUI representation of the selected network graph with the highest reliability.
 
 # Results
 
