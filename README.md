@@ -8,6 +8,25 @@ The program should have two versions: one using **exhaustive enumeration** and t
 
 The program should accept input files specifying the number of cities, costs of inter-city connections, and reliabilities of inter-city connections. Input files for 4, 5, and 6 cities are provided, and the program should run on all three inputs.
 
+## Instructions
+
+**Prerequisites**
+
+To run the project, it is necessary to have an IDE with an interpreter for Python 3.10 or higher or to be signed into a Google account.
+
+### First method:
+1. Open the *ecse422_project.ipynb* file in an IDE
+2. Input the path of the city text file and the cost limit as the value for the *filename* and *cost_limit* variables respectively. They are below the comment line *#INPUT YOUR CONSTRAINTS BELOW*
+3. Run the entire file. 
+
+### Second method:
+1. Upload the *ecse422_project.ipynb* file on Google Colab.
+2. Input the path of the city text file and the cost limit as the value for the *filename* and *cost_limit* variables respectively. They are below the comment line *#INPUT YOUR CONSTRAINTS BELOW*
+3. Run the entire file by selecting the *Runtime* tab on the menu, and then *Run all*.
+
+### Result
+The result of every code block appears right under it. It should output the execution log of both the exhaustive search and the efficient algorithm, the network they have computed and a graph representation of the network.
+
 ## Exhaustive Enumeration
 
 **Implementation**
