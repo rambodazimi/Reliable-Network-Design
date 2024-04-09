@@ -1,5 +1,10 @@
 # Reliable-Network-Design
 
+**Team Members**
+Rambod Azimi - 260911967
+Ping Gu - 260446005
+Shabthana Kandasamy - 260927788
+
 **Project Description**
 
 The project requires developing a program for designing communication networks between cities. Given the number of cities and characteristics of communication links (cost and reliability), the objective is to construct a network that maximizes reliability within a specified cost constraint.
