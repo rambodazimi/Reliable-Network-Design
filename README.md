@@ -24,12 +24,12 @@ To run the project, it is necessary to have an IDE with an interpreter for Pytho
 
 ### First method:
 1. Open the *ecse422_project.ipynb* file in an IDE
-2. Input the path of the city text file and the cost limit as the value for the *filename* and *cost_limit* variables respectively. They are below the comment line *#INPUT YOUR CONSTRAINTS BELOW*
+2. Input the local path of the city text file and the cost limit as the value for the *filename* and *cost_limit* variables respectively. They are below the comment line *#INPUT YOUR CONSTRAINTS BELOW*
 3. Run the entire file. 
 
 ### Second method:
 1. Upload the *ecse422_project.ipynb* file on Google Colab.
-2. Input the path of the city text file and the cost limit as the value for the *filename* and *cost_limit* variables respectively. They are below the comment line *#INPUT YOUR CONSTRAINTS BELOW*
+2. Upload the city file on the Google Colab ../content folder. It should be displayed right away when the *Files* tab in the left menu is selected. Input the name of the city text file and the cost limit as the value for the *filename* and *cost_limit* variables respectively. They are below the comment line *#INPUT YOUR CONSTRAINTS BELOW*
 3. Run the entire file by selecting the *Runtime* tab on the menu, and then *Run all*.
 
 ### Result
