@@ -89,6 +89,7 @@ The result of every code block appears right under it. It should output the exec
 
 # Results
 
+## Exhaustive Search
 ### 4-city
 
 #### Cost Limit: 50
